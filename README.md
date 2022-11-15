@@ -1,2 +1,2 @@
 # test_repo
-repo training
+repo training for the sack of understanding Git and Github
